@@ -1,0 +1,75 @@
+c:\users\administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\bin\Debug\Quiz10.exe.config
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.Form1.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.Form2.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.Properties.Resources.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.csproj.GenerateResource.Cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\bin\Debug\Quiz10.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\bin\Debug\Quiz10.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.exe
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.pdb
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.Form3.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.UyeGirisi.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.RandevuAl.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.RandevuGecmisi.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.yetkiYok.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.DoktorEkle.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.HemsireEkle.resources
+C:\Users\Administrator\documents\visual studio 2013\Projects\Quiz10\Quiz10\obj\Debug\Quiz10.HizmetliEkle.resources
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\bin\Debug\Quiz10.exe.config
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.exe
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.pdb
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\bin\Debug\Quiz10.exe
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\bin\Debug\Quiz10.pdb
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.csprojResolveAssemblyReference.cache
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.DoktorEkle.resources
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.HemsireEkle.resources
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.HizmetliEkle.resources
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.Properties.Resources.resources
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.RandevuAl.resources
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.RandevuGecmisi.resources
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.UyeGirisi.resources
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.yetkiYok.resources
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.csproj.GenerateResource.Cache
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.Anasayfa.resources
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.PersonelListele.resources
+F:\alıstırmalar\PROJEELEERR\Quiz10\Quiz10\obj\Debug\Quiz10.UyeKayıt.resources
+D:\Quiz10\Quiz10\bin\Debug\Quiz10.exe.config
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.exe
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.pdb
+D:\Quiz10\Quiz10\bin\Debug\Quiz10.exe
+D:\Quiz10\Quiz10\bin\Debug\Quiz10.pdb
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.csprojResolveAssemblyReference.cache
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.DoktorEkle.resources
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.Anasayfa.resources
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.PersonelListele.resources
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.UyeKayıt.resources
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.HemsireEkle.resources
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.HizmetliEkle.resources
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.Properties.Resources.resources
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.RandevuAl.resources
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.RandevuGecmisi.resources
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.UyeGirisi.resources
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.yetkiYok.resources
+D:\Quiz10\Quiz10\obj\Debug\Quiz10.csproj.GenerateResource.Cache
+F:\Quiz10\Quiz10\bin\Debug\Quiz10.exe.config
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.exe
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.pdb
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.csprojResolveAssemblyReference.cache
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.DoktorEkle.resources
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.Anasayfa.resources
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.PersonelListele.resources
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.UyeKayıt.resources
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.HemsireEkle.resources
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.HizmetliEkle.resources
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.Properties.Resources.resources
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.RandevuAl.resources
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.RandevuGecmisi.resources
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.UyeGirisi.resources
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.yetkiYok.resources
+F:\Quiz10\Quiz10\obj\Debug\Quiz10.csproj.GenerateResource.Cache
+F:\Quiz10\Quiz10\bin\Debug\Quiz10.exe
+F:\Quiz10\Quiz10\bin\Debug\Quiz10.pdb
+C:\Users\sehertosh\Desktop\Yeni klasör (2)\Quiz10\Quiz10\bin\Debug\Quiz10.exe.config
+C:\Users\sehertosh\Desktop\Yeni klasör (2)\Quiz10\Quiz10\obj\Debug\Quiz10.exe
+C:\Users\sehertosh\Desktop\Yeni klasör (2)\Quiz10\Quiz10\obj\Debug\Quiz10.pdb
